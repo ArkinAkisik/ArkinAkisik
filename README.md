@@ -4,12 +4,13 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ark%C4%B1n-ak%C4%B1%C5%9F%C4%B1k-a5145a142/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/AkisikArkin)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/arkinakisik/)
-[![Twitch Badge](https://img.shields.io/badge/-Twitch-e4405f?style=flat-square&logo=Twitch&logoColor=white)](https://www.twitch.tv/nighthawkaa)
+[![Twitch](http://img.shields.io/badge/-Twitch-333333?style=flat&logo=twitch)](https://www.twitch.tv/nighthawkaa)
+[![Facebook](http://img.shields.io/badge/-Facebook-333333?style=flat&logo=facebook)](https://www.facebook.com/profile.php?id=1071223570)
 
 ### I am happy to see you here!! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Arkin.Arkin)
 
 
-Hi, I am Arkin Akisik, a graduate student and live in Pittsburgh. I am studying my last semester in Information Systems and I am currently looking for an internship and job.
+Hi, I am Arkin Akisik, a graduate student in Pittsburgh. I am studying my last semester in Management of Information Systems and I am currently looking for an internship and job.
 
 <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
 
